@@ -1,6 +1,7 @@
 body{
   padding-top: 40px;
   font-family: Raleway,Sans-Serif;
+  background-color: #EBD9A6;
   background-size: 110%;
   background-repeat: no-repeat;
   background-position: center;
@@ -8,12 +9,16 @@ body{
 }
 
 p{
+  font-weight: lighter;
   font-size: 1.5em;
   padding: 25px;
 }
 
 .border-bottom{
-  background-color: white;
+  width: 100%;
+  font-weight: bolder;
+  background-color: #FFBC52;
+  margin-top: 35px;
   padding: 30px 0 0 50px;
 }
 .project img{
@@ -26,9 +31,17 @@ p{
   height: auto;
 }
 
+.navbar-dark {
+    background-color: #FF7A00;
+    border-color: #E7E7E7;
+}
 
+.fixed-top{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
 .textBox {
-  
+  font-weight: lighter;
   overflow: auto;
 }
 
