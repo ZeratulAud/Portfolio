@@ -12,6 +12,7 @@ p{
 
 .card{
   margin: 20px;
+  padding: 5px;
 }
 
 .border-bottom{
@@ -65,9 +66,6 @@ p{
   border-radius: 100px;
 }
 
-.text-center{
-  padding-top: 15px; 
-}
 
 .card-title{
   font-weight: bold;
@@ -79,4 +77,13 @@ p{
 
 .activeLogo{
   filter: invert(100%);
+}
+.btn{
+  border-color: #FFBC52;
+  background-color: #FF7A00;
+}
+
+.btn:hover{
+  border-color: #FFBC52;
+  background-color: #FFBC52;
 }
