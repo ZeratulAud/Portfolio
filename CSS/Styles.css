@@ -70,7 +70,7 @@ p{
 }
 
 .logo{
-  filter: invert(85%);
+  filter: invert(100%) opacity(50%);
 }
 
 .activeLogo{
