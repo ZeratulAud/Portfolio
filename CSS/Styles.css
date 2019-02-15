@@ -87,3 +87,7 @@ p{
   border-color: #FFBC52;
   background-color: #FFBC52;
 }
+
+.btn:visited{
+  color: white;
+}
