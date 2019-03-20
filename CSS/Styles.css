@@ -34,6 +34,10 @@ p{
   height: auto;
 }
 
+.description{
+  margin-left: -20px;
+}
+
 .navbar-dark {
     background-color: #FF7A00;
     border-color: #E7E7E7;
@@ -95,4 +99,8 @@ p{
 
 .btn:visited{
   color: white;
+}
+
+.bottom {
+  padding-bottom: 15%;
 }
