@@ -54,17 +54,18 @@ p{
   padding: 20px;
 }
 
-#About-image{
-  padding-top: 10px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 75%;
-  border-radius: 100;
+.About-image{
+  background-image: url(../images/Zack3.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+    width: 100%;
+  height: 300%;
 }
 .About-Content {
   padding-top: 10px;
   width: 100%;
+  height: 300%;
   margin: auto;
 }
 
