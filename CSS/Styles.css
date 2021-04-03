@@ -1,7 +1,7 @@
 body{
   padding-top: 40px;
   font-family: Raleway,Sans-Serif;
-  background-color: #EBD9A6;
+  background-color: #282528;
 }
 
 p{
@@ -15,7 +15,7 @@ p{
 .card{
   margin: 20px;
   padding: 5px;
-  background-color: #EBD9A6;
+  background-color: #919191;
 }
 
 .border-bottom{
